@@ -2,7 +2,7 @@
   Background Jobs
 </h1>
 
-<p align="justify"> API created using Node.js with Bull and Redis to implement jobs needing execute in background improving performance that API.</p>
+<p align="justify"> API created using NodeJS with Bull and Redis to implement jobs needing execute in background improving performance that API.</p>
 
 ## Tools
 
