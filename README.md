@@ -25,6 +25,7 @@
 1. Clone this repository;
 2. Enter the folder `cd background-jobs`;
 3. Run `yarn` to install dependencies;
-4. Run `yarn dev` to start server;
+4. Run `redis-server` to start redis;
+5. Run `yarn dev` to start server;
 
 ---
