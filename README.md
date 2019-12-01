@@ -13,18 +13,18 @@
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) — Run multiple npm scripts in parallel or sequential.
 - [nodemailer](https://github.com/nodemailer/nodemailer) — Send e-mails with NodeJS.
 - [bull](https://github.com/OptimalBits/bull) — Queue package for handling distributed jobs and messages.
-- [bull-board](https://github.com/vcapretz/bull-board) —  Queue background jobs inspector.
-- [redis](https://redis.io/download) —  Database noSQL with fast performance.
+- [bull-board](https://github.com/vcapretz/bull-board) — Queue background jobs inspector.
 
 ## Requirement
 
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
+- [Redis](https://redis.io/download)
 
 ## Install and Run
 
 1. Clone this repository;
 2. Enter the folder `cd background-jobs`;
 3. Run `yarn` to install dependencies;
-4. Run `yarn start` to start server;
+4. Run `yarn dev` to start server;
 
 ---
