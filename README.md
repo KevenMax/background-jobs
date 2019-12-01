@@ -14,6 +14,7 @@
 - [nodemailer](https://github.com/nodemailer/nodemailer) — Send e-mails with NodeJS.
 - [bull](https://github.com/OptimalBits/bull) — Queue package for handling distributed jobs and messages.
 - [bull-board](https://github.com/vcapretz/bull-board) —  Queue background jobs inspector.
+- [redis](https://redis.io/download) —  Database noSQL with fast performance.
 
 ## Requirement
 
